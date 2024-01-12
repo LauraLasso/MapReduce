@@ -1,0 +1,10 @@
+1,apple,orange,banana
+2,banana,orange
+3,apple,banana
+4,apple,orange
+5,apple
+6,banana,orange
+7,apple,banana,orange
+8,apple,orange
+9,banana
+10,apple,banana,orange
